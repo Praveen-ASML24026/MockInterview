@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    color: rgb(5, 19, 19);
+    font-family: sans-serif;
+    background-color:rgb(0,217,255);
+   margin: 10%;
+   padding: 10px 20px 20px 20px;
+    /* box-decoration-break: 200px; */
+
+}
+.box{
+    background-color: #f0f0f0;
+      padding: 20px;             
+  border-radius: 10px;      
+  display: inline-block;
+}
+
+.box img{
+     width: 200px;
+  height: auto;
+  display: inline-block;
+}
